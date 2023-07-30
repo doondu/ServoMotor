@@ -1,0 +1,2 @@
+tutorials
+-DCATKIN_DEVEL_PREFIX=/home/pi/python_catkin/devel -DCMAKE_INSTALL_PREFIX=/home/pi/python_catkin/install -G Unix Makefiles
